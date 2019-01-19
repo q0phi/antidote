@@ -13,4 +13,4 @@ utilities:
 stages:
   - id: 1
     description: Using the Bash Shell
-    labGuide: https://raw.githubusercontent.com/nre-learning/antidote/master/lessons/lesson-23/stage1/guide.md
+    labGuide: https://github.com/q0phi/antidote/blob/master/lessons/lesson-23/stage1/guide.md
